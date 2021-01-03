@@ -27,7 +27,7 @@ Description: `NERDHEAD's archetypes`
 * Select Button `Add Archetype...`
 
 ```
-GroupId: com.ogaclejapan
+GroupId: com.nerdhead
 ArtifactId: {{archetype}}  #e.g. maven-archetype-webapp-custom
 Version: {{version}}       #e.g. 1.0.0
 Repository: https://github.com/NERDHEAD/maven-archetypes
