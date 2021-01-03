@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nerdhead</groupId>
-  <artifactId>maven-archetypes-webapp-custom</artifactId>
+  <artifactId>maven-archetype-webapp-custom</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
 
   <name>Original Maven Archetypes</name>
 
   <modules>
-    <module>maven-archetypes-webapp-custom</module>
+    <module>maven-archetype-webapp-custom</module>
   </modules>
 </project>
