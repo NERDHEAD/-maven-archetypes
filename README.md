@@ -1,7 +1,7 @@
 Original Maven Archetypes
 ==========================
 
-* [com.nerdhead:maven-archetypes-webapp-custom:1.0.0](#maven-archetypes-webapp-custom)
+* [com.nerdhead:maven-archetype-webapp-custom:1.0.0](#maven-archetype-webapp-custom)
 
 ## Usage
 
@@ -28,14 +28,14 @@ Description: `NERDHEAD's archetypes`
 
 ```
 GroupId: com.ogaclejapan
-ArtifactId: {{archetype}}  #e.g. maven-archetypes-webapp-custom
+ArtifactId: {{archetype}}  #e.g. maven-archetype-webapp-custom
 Version: {{version}}       #e.g. 1.0.0
-Repository: https://nerdhead.github.io/maven-archetypes/archetype-catalog.xml
+Repository: https://github.com/NERDHEAD/maven-archetypes
 ```
 
 ## Archetypes
 
-> maven-archetypes-webapp-custom:1.0
+> maven-archetype-webapp-custom:1.0
 
 _This archetype generates a stand alone application project in Java._
 
