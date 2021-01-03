@@ -46,8 +46,8 @@ Based on:
 * log4j 1.2.17
 * slf4j 1.6.6
 
-   * Spring security 4.0.1.RELEASE
-   * mybatis + ojdbc6 + spring-orm + mybatis-spring + commons-dbcp
+- Spring security 4.0.1.RELEASE
+- mybatis + ojdbc6 + spring-orm + mybatis-spring + commons-dbcp
 
 See http://ogaclejapan.github.com/maven-archetypes/archetype-catalog.xml
 
