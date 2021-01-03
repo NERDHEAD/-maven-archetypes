@@ -51,3 +51,14 @@ Based on:
 
 See https://nerdhead.github.io/maven-archetypes/archetype-catalog.xml
 
+
+
+## Reference
+
+> archetype-catalog
+
+   * https://github.com/ogaclejapan/maven-archetypes/edit/master/README.md
+
+> archetype-repository
+
+   * https://github.com/ogaclejapan/maven-archetypes
