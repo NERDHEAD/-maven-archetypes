@@ -49,5 +49,5 @@ Based on:
 - Spring security 4.0.1.RELEASE
 - mybatis + ojdbc6 + spring-orm + mybatis-spring + commons-dbcp
 
-See http://ogaclejapan.github.com/maven-archetypes/archetype-catalog.xml
+See https://nerdhead.github.io/maven-archetypes/archetype-catalog.xml
 
