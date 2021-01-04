@@ -11,5 +11,6 @@
 
   <modules>
     <module>maven-archetype-webapp-custom</module>
+    <module>nerdhead-archetype-webapp-custom</module>
   </modules>
 </project>
