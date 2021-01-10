@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YRMR_web_test_app</string>
+    <string name="text_openLink">링크 열기</string>
+    <string name="text_close">닫기</string>
+</resources>
