@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "YRMR_web_test_app"
